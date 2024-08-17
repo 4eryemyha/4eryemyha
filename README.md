@@ -1,3 +1,5 @@
+<img align="left" src="https://media1.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" height="150"/>
+<img align="right" src="https://media1.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" height="150"/>
 
 <div align="center">
 <h3> Hi! </h3>
