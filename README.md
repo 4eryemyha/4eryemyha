@@ -25,4 +25,9 @@
 
 ## My Skill Set
 
-
+Языки программирования
+С#, C++, Python, SQL, Blueprint, HTML
+Среды разработки
+Unreal Engine, Unity, Visual Studio, WPF 
+Различные среды для редактирования и работы с чеи либо (Other)
+Blender;Figma;Mixamo;Adobe Photoshop;
