@@ -7,15 +7,9 @@
 <h3> I am an Unreal Engine Developer</h3>
 </div>
 
-<!--
-<div align="center">
-*** <img src="https://media1.giphy.com/media/a1QLZUUtCcgyA/giphy.gif" height="150"/>
-    <p style="font-size:18px;">Hi!</p>
-    <p style="font-size:20px;">My name is <strong>Yeremey</strong><br></p>
-    <p style="font-size:18px;">I am an <strong>Unreal Engine Developer</strong></p>
-</div>
--->
+
 ## A Bit About Me
+
 -   **Location:** Russia, Moscow 🗺️
 -   **Profession:** Junior Unreal Engine Developer 💻
 -   **Ambitions:** Aspiring to create unique game projects 🎮
@@ -26,6 +20,7 @@
 
 
 ## My Skill Set
+
 - ### Programming Languages:
 
 <div align="center" > 
@@ -55,3 +50,12 @@
 <a href="https://github.com/rishavanand" target="_blank"> <img src="https://img.shields.io/badge/Adobe Photoshop-131415?style=for-the-badge&logo=cplusplus&logoColor=white" height="40" /></a>
 </div>
 
+
+## My Projects
+
+1
+
+
+## где меня можно найти
+
+1
