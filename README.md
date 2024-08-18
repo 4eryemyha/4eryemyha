@@ -26,10 +26,32 @@
 
 
 ## My Skill Set
+- ### Programming Languages:
 
-Языки программирования
-С#, C++, Python, SQL, Blueprint, HTML
-Среды разработки
-Unreal Engine, Unity, Visual Studio, WPF 
-Различные среды для редактирования и работы с чеи либо (Other)
-Blender;Figma;Mixamo;Adobe Photoshop;
+<div align="center" > 
+<a href="https://github.com/rishavanand" target="_blank"> <img src="https://img.shields.io/badge/C Sharp-131415?style=for-the-badge&logo=cplusplus&logoColor=white" height="40" /></a>
+<a href="https://github.com/rishavanand" target="_blank"> <img src="https://img.shields.io/badge/C++-131415?style=for-the-badge&logo=cplusplus&logoColor=white" height="40" /></a>
+<a href="https://github.com/rishavanand" target="_blank"> <img src="https://img.shields.io/badge/Blueprint-131415?style=for-the-badge&logo=cplusplus&logoColor=white" height="40" /></a>
+<a href="https://github.com/rishavanand" target="_blank"> <img src="https://img.shields.io/badge/HTML-131415?style=for-the-badge&logo=cplusplus&logoColor=white" height="40" /></a>
+<a href="https://github.com/rishavanand" target="_blank"> <img src="https://img.shields.io/badge/SQL-131415?style=for-the-badge&logo=cplusplus&logoColor=white" height="40" /></a>
+<a href="https://github.com/rishavanand" target="_blank"> <img src="https://img.shields.io/badge/Python-131415?style=for-the-badge&logo=cplusplus&logoColor=white" height="40" /></a>
+</div>
+
+- ### Development Environments:
+
+<div align="center" > 
+<a href="https://github.com/rishavanand" target="_blank"> <img src="https://img.shields.io/badge/Unreal Engine-131415?style=for-the-badge&logo=cplusplus&logoColor=white" height="40" /></a>
+<a href="https://github.com/rishavanand" target="_blank"> <img src="https://img.shields.io/badge/Unity-131415?style=for-the-badge&logo=cplusplus&logoColor=white" height="40" /></a>
+<a href="https://github.com/rishavanand" target="_blank"> <img src="https://img.shields.io/badge/Visual Studio-131415?style=for-the-badge&logo=cplusplus&logoColor=white" height="40" /></a>
+<a href="https://github.com/rishavanand" target="_blank"> <img src="https://img.shields.io/badge/WPF-131415?style=for-the-badge&logo=cplusplus&logoColor=white" height="40" /></a>
+</div>
+
+- ### Others:
+
+<div align="center" > 
+<a href="https://github.com/rishavanand" target="_blank"> <img src="https://img.shields.io/badge/Blender-131415?style=for-the-badge&logo=cplusplus&logoColor=white" height="40" /></a>
+<a href="https://github.com/rishavanand" target="_blank"> <img src="https://img.shields.io/badge/Figma-131415?style=for-the-badge&logo=cplusplus&logoColor=white" height="40" /></a>
+<a href="https://github.com/rishavanand" target="_blank"> <img src="https://img.shields.io/badge/Mixamo-131415?style=for-the-badge&logo=cplusplus&logoColor=white" height="40" /></a>
+<a href="https://github.com/rishavanand" target="_blank"> <img src="https://img.shields.io/badge/Adobe Photoshop-131415?style=for-the-badge&logo=cplusplus&logoColor=white" height="40" /></a>
+</div>
+
