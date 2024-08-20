@@ -1,13 +1,9 @@
-<img align="left" src="https://media1.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" height="150"/>
-<img align="right" src="https://media1.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" height="150"/>
+
+<img align="left" src="https://media.tenor.com/YLGMGIrgkC4AAAAi/hello-there.gif" height="170"/>
+<img align="right" src="https://media.tenor.com/YLGMGIrgkC4AAAAi/hello-there.gif" height="170"/>
 
 
-
-<div align="center">
-<h3> Hi! </h3>
-<h3> My name is Yeremey </h3>
-<h3> I am an Unreal Engine Developer</h3>
-</div>
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&duration=1000&pause=999999999999999999999&color=000000&center=true&vCenter=true&width=625&height=170&lines=Hi%2C+my+name+is+Yeremey" />
 
 
 ## A Bit About Me
