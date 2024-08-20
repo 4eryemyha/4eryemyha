@@ -58,4 +58,16 @@
 
 ## Where To Find Me
 
-1
+<div align="center" > 
+<a href="https://vk.com/jeremy_ymerej" target="_blank"> <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=VK&logoColor=white" height="40" /></a>
+<a href="https://t.me/Jeremy_ymerej" target="_blank"> <img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="40" /></a>
+<a href="https://discordapp.com/users/1145255387545751612/" target="_blank"> <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40" /></a>
+<a href="https://api.whatsapp.com/send?phone=79268253902" target="_blank"> <img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" /></a>
+<a href="https://github.com/4eryemyha" target="_blank"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" height="40" /></a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" /></a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" height="40" /></a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white" height="40" /></a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/mail-005FF9?style=for-the-badge&logo=maildotru&logoColor=white" height="40" /></a>
+<a href="https://steamcommunity.com/id/4eryemyha/" target="_blank"> <img src="https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white" height="40" /></a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/epic games-313131?style=for-the-badge&logo=epicgames&logoColor=white" height="40" /></a>
+</div>
