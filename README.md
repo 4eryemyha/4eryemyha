@@ -60,7 +60,7 @@
 </div>
 
 
-## My Projects
+## Projects
 
   <p align="center">
     <a href=""><img width="271" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=4eryemyha&repo=4eryemyha&theme=www&bg_color=000000&title_color=ffffff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flassssssssssk"></a>
