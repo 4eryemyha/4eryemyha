@@ -37,8 +37,8 @@
 <div align="center" > 
 <a href="https://github.com/rishavanand" target="_blank"> <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" height="40" /></a>
 <a href="https://github.com/rishavanand" target="_blank"> <img src="https://img.shields.io/badge/Unity-8a8a8a?style=for-the-badge&logo=unity&logoColor=white" height="40" /></a>
-<a href="https://github.com/rishavanand" target="_blank"> <img src="https://img.shields.io/badge/Visual Studio-7A1FA2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCwwLDI1NiwyNTYiPgo8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2UtZGFzaGFycmF5PSIiIHN0cm9rZS1kYXNob2Zmc2V0PSIwIiBmb250LWZhbWlseT0ibm9uZSIgZm9udC13ZWlnaHQ9Im5vbmUiIGZvbnQtc2l6ZT0ibm9uZSIgdGV4dC1hbmNob3I9Im5vbmUiIHN0eWxlPSJtaXgtYmxlbmQtbW9kZTogbm9ybWFsIj48ZyB0cmFuc2Zvcm09InNjYWxlKDUuMzMzMzMsNS4zMzMzMykiPjxwYXRoIGQ9Ik0yMi45MDMsMy4yODZjMC42NzksLTAuMzgxIDEuNTE1LC0wLjM4MSAyLjE5MywwYzMuMzU1LDEuODgzIDEzLjQ1MSw3LjU1MSAxNi44MDcsOS40MzRjMC42NzksMC4zOCAxLjA5NywxLjA4NCAxLjA5NywxLjg0NmMwLDMuNzY2IDAsMTUuMTAxIDAsMTguODY3YzAsMC43NjIgLTAuNDE4LDEuNDY2IC0xLjA5NywxLjg0N2MtMy4zNTUsMS44ODMgLTEzLjQ1MSw3LjU1MSAtMTYuODA3LDkuNDM0Yy0wLjY3OSwwLjM4MSAtMS41MTUsMC4zODEgLTIuMTkzLDBjLTMuMzU1LC0xLjg4MyAtMTMuNDUxLC03LjU1MSAtMTYuODA3LC05LjQzNGMtMC42NzgsLTAuMzgxIC0xLjA5NiwtMS4wODQgLTEuMDk2LC0xLjg0NmMwLC0zLjc2NiAwLC0xNS4xMDEgMCwtMTguODY3YzAsLTAuNzYyIDAuNDE4LC0xLjQ2NiAxLjA5NywtMS44NDdjMy4zNTQsLTEuODgzIDEzLjQ1MiwtNy41NTEgMTYuODA2LC05LjQzNHoiIGZpbGw9IiNmZmZmZmYiPjwvcGF0aD48cGF0aCBkPSJNNS4zMDQsMzQuNDA0Yy0wLjI2NiwtMC4zNTYgLTAuMzA0LC0wLjY5NCAtMC4zMDQsLTEuMTQ5YzAsLTMuNzQ0IDAsLTE1LjAxNCAwLC0xOC43NTljMCwtMC43NTggMC40MTcsLTEuNDU4IDEuMDk0LC0xLjgzNmMzLjM0MywtMS44NzIgMTMuNDA1LC03LjUwNyAxNi43NDgsLTkuMzhjMC42NzcsLTAuMzc5IDEuNTk0LC0wLjM3MSAyLjI3MSwwLjAwOGMzLjM0MywxLjg3MiAxMy4zNzEsNy40NTkgMTYuNzE0LDkuMzMxYzAuMjcsMC4xNTIgMC40NzYsMC4zMzUgMC42NiwwLjU3NnoiIGZpbGw9IiNmZmZmZmYiPjwvcGF0aD48cGF0aCBkPSJNMjQsMTBjNy43MjcsMCAxNCw2LjI3MyAxNCwxNGMwLDcuNzI3IC02LjI3MywxNCAtMTQsMTRjLTcuNzI3LDAgLTE0LC02LjI3MyAtMTQsLTE0YzAsLTcuNzI3IDYuMjczLC0xNCAxNCwtMTR6TTI0LDE3YzMuODYzLDAgNywzLjEzNiA3LDdjMCwzLjg2MyAtMy4xMzcsNyAtNyw3Yy0zLjg2MywwIC03LC0zLjEzNyAtNywtN2MwLC0zLjg2NCAzLjEzNiwtNyA3LC03eiIgZmlsbC1vcGFjaXR5PSIwIiBmaWxsPSIjMDAwMDAwIj48L3BhdGg+PHBhdGggZD0iTTQyLjQ4NSwxMy4yMDVjMC41MTYsMC40ODMgMC41MDYsMS4yMTEgMC41MDYsMS43ODRjMCwzLjc5NSAtMC4wMzIsMTQuNTg5IDAuMDA5LDE4LjM4NGMwLjAwNCwwLjM5NiAtMC4xMjcsMC44MTMgLTAuMzIzLDEuMTI3bC0xOS4wODQsLTEwLjV6IiBmaWxsPSIjZmZmZmZmIj48L3BhdGg+PHBhdGggZD0iTTM0LDIwaDF2OGgtMXpNMzcsMjBoMXY4aC0xeiIgZmlsbC1vcGFjaXR5PSIwIiBmaWxsPSIjMDAwMDAwIj48L3BhdGg+PHBhdGggZD0iTTMyLDI1aDh2MWgtOHpNMzIsMjJoOHYxaC04eiIgZmlsbC1vcGFjaXR5PSIwIiBmaWxsPSIjMDAwMDAwIj48L3BhdGg+PC9nPjwvZz4KPC9zdmc+&logoColor=white" height="40" /></a>
-<a href="https://github.com/rishavanand" target="_blank"> <img src="https://img.shields.io/badge/WPF-02458D?style=for-the-badge&logo=cplusplus&logoColor=white" height="40" /></a>
+<a href="https://github.com/rishavanand" target="_blank"> <img src="https://img.shields.io/badge/Visual Studio-7A1FA2?style=for-the-badge&logo=&logoColor=white" height="40" /></a>
+<a href="https://github.com/rishavanand" target="_blank"> <img src="https://img.shields.io/badge/WPF-02458D?style=for-the-badge&logo=&logoColor=white" height="40" /></a>
 </div>
 
 - ### Others:
@@ -53,7 +53,21 @@
 
 ## My Projects
 
-1
+  <p align="center">
+    <a href="https://github.com/pallets/flask"><img width="326" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=4eryemyha&repo=4eryemyha&theme=www&bg_color=000000&title_color=ffffff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
+    <a href="https://github.com/badges/shields"><img width="326" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
+    <a href="https://github.com/simple-icons/simple-icons"><img width="326" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="simple-icons"></a>
+    <a href="https://github.com/Rapptz/discord.py"><img width="326" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rapptz&repo=discord.py&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="discord.py"></a>
+    <a href="https://github.com/o2sh/onefetch"><img width="326" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=o2sh&repo=onefetch&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="onefetch"></a>
+    <a href="https://github.com/scrapinghub/dateparser"><img width="326" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=scrapinghub&repo=dateparser&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="dateparser"></a>
+    <a href="https://github.com/python-babel/babel"><img width="326" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=python-babel&repo=babel&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="babel"></a>
+    <a href="https://github.com/nextcord/nextcord"><img width="326" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=nextcord&repo=nextcord&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="nextcord"></a>
+    <a href="https://github.com/PyCQA/autoflake"><img width="326" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=PyCQA&repo=autoflake&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="autoflake"></a>
+  </p>
+
+
+
+
 
 
 ## Where To Find Me
