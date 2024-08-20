@@ -37,8 +37,6 @@
 - ### Frameworks and Libraries:
 
 <div align="center" > 
-<a href="https://github.com/rishavanand" target="_blank"> <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" height="40" /></a>
-<a href="https://github.com/rishavanand" target="_blank"> <img src="https://img.shields.io/badge/Unity-8a8a8a?style=for-the-badge&logo=unity&logoColor=white" height="40" /></a>
 <a href="https://github.com/rishavanand" target="_blank"> <img src="https://img.shields.io/badge/WPF-02458D?style=for-the-badge&logo=&logoColor=white" height="40" /></a>
 </div>
 
@@ -52,6 +50,8 @@
 - ### Software and Tools:
 
 <div align="center" > 
+<a href="https://github.com/rishavanand" target="_blank"> <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" height="40" /></a>
+<a href="https://github.com/rishavanand" target="_blank"> <img src="https://img.shields.io/badge/Unity-8a8a8a?style=for-the-badge&logo=unity&logoColor=white" height="40" /></a>
 <a href="https://github.com/rishavanand" target="_blank"> <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" height="40" /></a>
 <a href="https://github.com/rishavanand" target="_blank"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="40" /></a>
 <a href="https://github.com/rishavanand" target="_blank"> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white" height="40" /></a>
