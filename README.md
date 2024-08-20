@@ -89,7 +89,7 @@
 <a href="https://github.com/4eryemyha" target="_blank"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" height="40" /></a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" /></a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" height="40" /></a>
-<a href="" target="_blank"> <img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white" height="40" /></a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" height="40" /></a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/mail-005FF9?style=for-the-badge&logo=maildotru&logoColor=white" height="40" /></a>
 <a href="https://steamcommunity.com/id/4eryemyha/" target="_blank"> <img src="https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white" height="40" /></a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/epic games-313131?style=for-the-badge&logo=epicgames&logoColor=white" height="40" /></a>
