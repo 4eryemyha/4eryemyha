@@ -4,7 +4,7 @@
 
 <p align="center">
   <picture align="center">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=You+are+using+dark+mode&color=FFFFFF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=You+are+using+dark+mode&color=000000" />
   <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=1000&pause=999999999999999999999&color=000000&center=true&vCenter=true&width=560&height=100&lines=Hi%2C+my+name+is+Yeremey" />
 </picture>
 </p>
