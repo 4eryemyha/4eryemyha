@@ -1,9 +1,9 @@
 
-<img align="left" src="https://media.tenor.com/YLGMGIrgkC4AAAAi/hello-there.gif" height="170"/>
-<img align="right" src="https://media.tenor.com/YLGMGIrgkC4AAAAi/hello-there.gif" height="170"/>
+<img align="left" src="https://media.tenor.com/YLGMGIrgkC4AAAAi/hello-there.gif" height="135"/>
+<img align="right" src="https://media.tenor.com/YLGMGIrgkC4AAAAi/hello-there.gif" height="135"/>
 
 
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&duration=1000&pause=999999999999999999999&color=000000&center=true&vCenter=true&width=625&height=170&lines=Hi%2C+my+name+is+Yeremey" />
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&duration=1000&pause=999999999999999999999&color=000000&center=true&vCenter=true&width=625&height=135&lines=Hi%2C+my+name+is+Yeremey" />
 
 
 ## A Bit About Me
