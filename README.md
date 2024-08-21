@@ -9,7 +9,7 @@
 ## A Bit About Me
 
 -   **Location:** Russia, Moscow 🗺️
--   **Profession:** Junior Unreal Engine Developer 💻
+-   **Profession:** Junior+ Unreal Engine Developer 💻
 -   **Ambitions:** Aspiring to create unique game projects 🎮
 -   **Growth:** Always striving to learn new things and constantly improve myself 📚
 -   **Soft Skills:** Teamwork 🤝 / Active Listening 🎧 / Information Processing 🧠 / Learning & Teaching 📖
