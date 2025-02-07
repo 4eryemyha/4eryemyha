@@ -63,7 +63,7 @@
 
   <p align="center">
     <a href="https://github.com/4eryemyha/Delta-s_Enigma"><img width="271" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=4eryemyha&repo=Delta-s_Enigma&theme=www&bg_color=25313C&title_color=ffffff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flassssssssssk"></a>
-    <a href=""><img width="271" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=4eryemyha&repo=None&theme=www&bg_color=25313C&title_color=ffffff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flassssssssssk"></a>
+    <a href=""><img width="271" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=4eryemyha&repo=4eryemyha&theme=www&bg_color=25313C&title_color=ffffff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flassssssssssk"></a>
     <a href=""><img width="271" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=4eryemyha&repo=4eryemyha&theme=www&bg_color=25313C&title_color=ffffff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flassssssssssk"></a>
     <a href=""><img width="271" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=4eryemyha&repo=4eryemyha&theme=www&bg_color=25313C&title_color=ffffff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flassssssssssk"></a>
     <a href=""><img width="271" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=4eryemyha&repo=4eryemyha&theme=www&bg_color=25313C&title_color=ffffff&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flassssssssssk"></a>
